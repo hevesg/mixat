@@ -1,0 +1,14 @@
+global:
+  header: true
+  css:
+    theme:
+      css/mixat.css: {}
+  js:
+    js/mixat.js: {}
+  #dependencies:
+  #  - core/drupalSettings
+  #  - core/jquery
+  #  - core/jquery.once
+  libraries-override:
+    system/base: false
+    core/modernizr: false
